@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="asstes/image/newslogo.png">
-
-
-# **Gusto News**
+# **Zee News Clone**
 Simple News app made with Flutter in India.
 
 ---
@@ -14,7 +11,7 @@ Simple News app made with Flutter in India.
 
 ## 🗒 About
 
-Gusto News is a user-friendly news application designed to provide users with country-specific and topic-specific news updates. The app allows users to customize their news feed based on their interests and location, ensuring they stay informed about the latest developments around the world
+Zee News is a user-friendly news application designed to provide users with country-specific and topic-specific news updates. The app allows users to customize their news feed based on their interests and location, ensuring they stay informed about the latest developments around the world
 
 ## ⚙️ Features
 ### Country Selection:
