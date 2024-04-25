@@ -1,9 +1,6 @@
-<div align="center">
+<div>
 
 # **Zee News Clone**
-Simple News app made with Flutter in India.
-
----
 
 </div>
 
@@ -23,45 +20,22 @@ Users can search for specific news articles by keywords, topics, or headlines. T
 ## 📲 Screenshots
 
 
-
-<img align="left" src="https://github.com/aryansabhani/news_app/assets/112259316/9eb78f3b-fb2d-47d4-8aea-e74e61ef76a3" width="220px">
-<img align="left" src="https://github.com/aryansabhani/news_app/assets/112259316/6cf88a58-7540-49ff-910f-ddb3ce1f58b9" width="220px">
-<img src="https://github.com/aryansabhani/news_app/assets/112259316/03013525-27b6-4d17-929f-14db163eef54" width="220px">
-<img src="https://github.com/aryansabhani/news_app/assets/112259316/a972c98a-0e07-4af0-b3a2-4448e86dfd2b" width="220px">
-<img src="https://github.com/aryansabhani/news_app/assets/112259316/7b5a356e-63ca-4849-a75e-b00387c21c1b" width="220px">
-
+<img align="left" src="https://github.com/omtrivedi110/news_app/assets/131134704/a4181871-3397-4af3-8e4b-16e91d7784af" width="220px">
+<img align="left" src="https://github.com/omtrivedi110/news_app/assets/131134704/ce933f90-090a-4a22-bf9c-8623bf8369a6" width="220px">
+<img src="https://github.com/omtrivedi110/news_app/assets/131134704/cfe4bf04-43bd-4886-8301-dcd8d0eff805" width="220px">
+<img src="https://github.com/omtrivedi110/news_app/assets/131134704/a632219d-1563-4454-b976-0e487b521515" width="220px">
+<img src="https://github.com/omtrivedi110/news_app/assets/131134704/403d3f50-a65b-43f2-8cbf-50370a44c05e" width="220px">
 
 
 <br><br>
 
 ## 📽️ Video
 
-
-
-
-
-https://github.com/aryansabhani/news_app/assets/112259316/ae3b4e1e-a57f-4952-84c5-858f038ab32c
-
-
-
-
-
-
-
-
+https://github.com/omtrivedi110/news_app/assets/131134704/7c0ec0e7-afa0-4762-99f4-0972c68ee64b
 
 <br><br>
 
-
-## 📝 License
-
-Copyright © [Aryan sabhani](https://github.com/aryansabhani). <br>
-This project is [MIT](LICENSE.md) licensed.
-
-
 <div align="center">
-
-<img src="asstes/image/newslogo.png" width="200px" >
 
 ### Made with ❤️ in India.
 ---
